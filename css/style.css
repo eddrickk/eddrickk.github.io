@@ -123,6 +123,10 @@ footer p{
     margin-bottom: 0;
 }
 
+.duck a{
+    text-decoration: none;
+}
+
 /* Timeline */
 .main-timeline {
     position: relative
